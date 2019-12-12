@@ -1,11 +1,2 @@
-# Rule 1
-User-agent: Googlebot
-Disallow: /nogooglebot/
-
-# Rule 2
-User-agent: *
-Allow: /
 User-agent: *
 Disallow: /cgi-bin
-
-Sitemap: http://www.wahidiyah.org/robots.txt
